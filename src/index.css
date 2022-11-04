@@ -1,3 +1,6 @@
+@tailwind base;
+@tailwind components;
+
 *{
   box-sizing: border-box;
 }
@@ -9,3 +12,5 @@ html, body{
 :root{
   font-size:14px;
 }
+
+@tailwind utilities;
